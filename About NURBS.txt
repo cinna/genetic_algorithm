@@ -1,0 +1,39 @@
+
+About NURBS:
+
+
+  Non-Uniform Rational B-Splines (NURBS) curves and surface 
+  are parametric functions which can represent any type of curves 
+  or surfaces.
+  Some reasons for the use of NURBS are, that they: [PIEGL][ROGERS]
+
+     -offer one common mathematical form for both, standard analytical shapes (e.g. conics) and free form shapes;
+     -provide the flexibility to design a large variety of shapes;
+     -can be evaluated reasonably fast by numerically stable and accurate algorithms;
+     -are invariant under affine as well as perspective transformations;
+     -are generalizations of non-rational B-splines and non-rational and rational Bezier curves and surfaces.
+
+
+    
+     
+
+
+
+  Ref.:
+  [PEIGL] 
+  Les Piegl
+  "On NURBS: A Survey", 
+  Jan 01, 1991, IEEE Computer Graphics and Applications, Vol. 11, No. 1, pp. 55 - 71
+
+  [ROGERS] 
+  David F. Rogers, Rae A. Earnshaw (editors),
+  "State of the Art in Computer Graphics - Visualization and Modeling",
+  1991, New York, Springer-Verlag, pp. 225 - 269
+
+  http://sal.kachinatech.com/B/0/CPPNURBS.html
+
+  http://www.maxhelp.com/content/tutorials/nurbs/nurbs.htm
+
+
+  
+     
